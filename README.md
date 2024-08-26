@@ -1,11 +1,11 @@
 ![I am full-stack software developer](https://github.com/m-s1621/m-s1621/blob/main/LinkedIn%20Banner.png)
 ### Hello World!
 I am Meba
-##### Full-stack software developer
+#### Full-stack software developer
 
 I am really interested in pursuing a career as a software engineer since I find coding to be so powerful and capable of producing cutting-edge solutions. I want to use my abilities and expertise as a software engineer to create software products that will help better and grow third world problems. I find it tremendously fascinating to have the chance to tackle challenging issues and contribute to the creation of cutting-edge technology. 
 
-### TECHNICAL SKILLS
+#### TECHNICAL SKILLS
 
 **Programming Languages:** Java, JavaScript, HTML/CSS, SQL, MongoDB, Node, Express, React
 
